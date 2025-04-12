@@ -10,16 +10,16 @@
 
   - [WHY_ENGINEER.md](WHY_ENGINEER.md)
   
-  - MOST_EFFORT.md
+  - [MOST_EFFORT.md](MOST_EFFORT.md)
   
 **curiosity**
 
-  - GOAL.md
+  - [GOAL.md](GOAL.md)
   
 **memo ※課題に含まれない**
 
-  - Markdown記法チートシート
+  - [Markdown記法チートシート](https://qiita.com/Qiita/items/c686397e4a0f4f11683d)
   
-  - Git
+  - [Git.md](Git.md)
   
-  - Linux
+  - [Linux.md](Linux.md)
