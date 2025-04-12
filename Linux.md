@@ -4,7 +4,6 @@
 
 **Linux を動作させる環境**
 
-- パソコンに本体の OS とは別に Linux 環境を構築する。Windows なら WSL2、Mac ならデュアルブートや UTM を使用する
+- Windows で WSL2を使用し、OSはUbuntuを使用。
 
-
-OSはUbuntuを使用。
+## 2.
