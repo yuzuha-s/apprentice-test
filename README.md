@@ -8,11 +8,11 @@
 
   - [PASSWORD_MANAGER.md](PASSWORD_MANAGER.md)
 
-  - [password1.sh]() 提出QUESTステップ1
+  - [password1.sh](https://github.com/yuzuha-s/apprentice-test/blob/main/password1.sh) 提出QUESTステップ1
 
   - [password_manager2.sh]() 提出QUESTステップ2
 
-  - [password_manager.txt.gpg]() 提出QUESTステップ3
+  - [password_manager.txt.gpg](https://github.com/yuzuha-s/apprentice-test/blob/main/password_manager.txt.gpg) 提出QUESTステップ3
   
 **career**
 
