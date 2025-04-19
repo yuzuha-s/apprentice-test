@@ -10,7 +10,7 @@
 
   - [password1.sh](https://github.com/yuzuha-s/apprentice-test/blob/main/password1.sh) 提出QUESTステップ1
 
-  - [password_manager2.sh]() 提出QUESTステップ2
+  - [password_manager2.sh](https://github.com/yuzuha-s/apprentice-test/blob/main/password_manager2.sh) 提出QUESTステップ2
 
   - [password_manager.txt.gpg](https://github.com/yuzuha-s/apprentice-test/blob/main/password_manager.txt.gpg) 提出QUESTステップ3
   
@@ -18,7 +18,7 @@
 
   - [WHY_ENGINEER.md](WHY_ENGINEER.md)
   
-  - [MOST_EFFORT.md](MOST_EFFORT.md)
+  - [MOST_EFFORT.md](https://github.com/yuzuha-s/apprentice-test/blob/main/MOST%EF%BC%BFEFFORT.md)
   
 **curiosity**
 
