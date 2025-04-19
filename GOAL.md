@@ -22,13 +22,19 @@
 
   - 参考本：新しいLinuxの教科書、
 
-  - 検索：
+  - 検索
   
     エラーの意味はコパイロットに質問
 
     コードの使い方はQiitaとZennで調べる
 
-  - 動画：[supy「【GitHub入門】初心者向け！GitHubでチーム開発するための基礎操作](https://www.youtube.com/watch?v=Dz95iUNt-fg&t=2157s)
+  - 動画
+  　[サプー【GitHub入門】初心者向け！GitHubでチーム開発するための基礎操作](https://www.youtube.com/watch?v=Dz95iUNt-fg&t=2157s)
+
+  　 データサイエンス研究所
+
+  　 だれでもエンジニア / 山浦清透 [Gitの基本コマンドまとめ【Git入門講座#3】](https://www.youtube.com/watch?v=f4BRgGAXyek) 他
+
 
 
 
@@ -48,6 +54,4 @@
 
 ## 3.課題スケージュール一覧
 
-**ここにnotionのリンクを貼り付ける**
-
-Notionで管理しましたので、こちらも見ていただけると幸いです。
+[Notion](https://www.notion.so/Web-1cfaa9ef4a7a80b08545dfee29b13855?pvs=4)で管理しましたので、こちらも見ていただけると幸いです。
